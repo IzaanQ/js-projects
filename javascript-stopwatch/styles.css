@@ -1,1 +1,36 @@
-css stylings
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: #495371;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 , p {
+    color: #F1E0AC;
+}
+
+p{
+    font-size: 300%;
+}
+
+button {
+    background: none;
+	color: #F1E0AC ;
+	border: solid 5px;
+    border-radius: 20px;
+    border-color: #F1E0AC;
+	padding-left: 7px;
+	font: inherit;
+    font-size: 200%; 
+    margin: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+    color: #495371;
+    background-color: #F1E0AC;
+     
+
+}
