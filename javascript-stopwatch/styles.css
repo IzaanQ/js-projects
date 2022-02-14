@@ -11,19 +11,29 @@ h1 , p {
     color: #F1E0AC;
 }
 
+h1 {
+    font-size: 500%;
+}
+
+.stopwatch{
+    font-size: 135%;
+}
+
 p{
-    font-size: 300%;
+    font-size: 550%;
+    margin-top: 6%;
+    margin-bottom: 8%;
 }
 
 button {
     background: none;
 	color: #F1E0AC ;
-	border: solid 5px;
+	border: solid 7px;
     border-radius: 20px;
     border-color: #F1E0AC;
 	padding-left: 7px;
 	font: inherit;
-    font-size: 200%; 
+    font-size: 300%; 
     margin: 5px;
 }
 
@@ -31,6 +41,12 @@ button:hover{
     cursor: pointer;
     color: #495371;
     background-color: #F1E0AC;
-     
+}
 
+.wrapper{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-top: 1%;
 }
