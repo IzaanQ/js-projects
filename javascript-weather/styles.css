@@ -28,12 +28,12 @@ header {
 
 header input {
     width: 100%;
-    max-width: 30%;
+    max-width: 35%;
     padding: 15px 15px;
     border: none;
     outline: none;
     font-family: 'Poppins', sans-serif;
-    height: 5vh;
+    height: 6vh;
     border-radius: 20px;
     background-color: rgba(0,0,0, 0.6);
     color: #FFF;
@@ -44,7 +44,7 @@ header input {
 
 header input:focus {
     background-color: rgba(0,0,0, 0.7);
-    height: 7vh;
+    height: 8vh;
     margin-bottom: 1%;
 }
 
