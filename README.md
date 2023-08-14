@@ -1,1 +1,1 @@
-de
+This Repository on my GitHub will be a collection of all of my JavaScript projects and ideas that I think is a good representation of my skill as a developer. All things that I see fit will be presented in this Folder.
